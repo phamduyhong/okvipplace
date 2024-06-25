@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+OKVIP - LIÊN MINH GAME ONLINE GIẢI TRÍ SỐ 1 - okvip.place
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`OKVIP <https://okvip.place/>`_ là tên gọi mới của tập đoàn Taipei101 uy tín hàng đầu, sở hữu lượng thành viên cực khủng và được mệnh danh là thiên đường giải trí. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Địa chỉ: 97 Đ. Trần Não, Khu biệt thự ABC P, Thủ Đức, Thành phố Hồ Chí Minh 700000
 
-   This project is under active development.
+Phone: 0815367041
 
-Contents
---------
+Email: info@okvip.place
 
-.. toctree::
+Website: https://okvip.place/
 
-   usage
-   api
+Map: https://maps.app.goo.gl/BYGmUPzSGpRmNJ8G9
+
+#okvip #congtyokvip #tapdoanokvip #taipei101 #okvipplace #lienminhgameonline #lienminhokvip
